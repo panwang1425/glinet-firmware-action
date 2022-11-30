@@ -6,6 +6,7 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
+  - luci-app-openclash
 
 
 
